@@ -1,10 +1,14 @@
 **Zhohal Tamara**
 
-*Minsk, Belarus*
-+375-44-724-95-84
+*Contacts:*
+* EMAIL ADDRESS: tamara.petr@tut.by
+* PHONE NUMBER: +375-44-724-95-84
+* ADDRESS: *Minsk, Belarus*
 
-Education: Faculty of Civil Engineering of the Belarusian National Technical University.
-Course "JavaRush"
+
+Education:
+* Faculty of Civil Engineering of the Belarusian National Technical University.
+* Course "JavaRush"
 
 Profile: I am easy to train, hardy and diligent.
 Since school I was interested in mathematics and computer science.
