@@ -1,13 +1,17 @@
 body {
-    margin: 5px;
     font: 20px Times New Roman, serif;
     line-height: 40px;
 
 }
+.wrapper {
+    margin: 0px auto;
+    max-width: 1200px;
+}
+
 header{
     height: 300px;
-    background: #f9b3ae;
-    border-bottom: 1px solid #f9b3ae;
+    background: #ceaeb3;
+    border-bottom: 1px solid #7e3952;
    
     }
 h1 {
@@ -15,10 +19,10 @@ h1 {
     color: #6d5a4c;
 }
 h2 {
-    color: #c3a188;
+    color: #7a524f;
 }
 h3 {
-    color: #ff8000;
+    color: #7e3952;
 }
 .foto {
     position: relative;
@@ -32,35 +36,47 @@ h3 {
     bottom: 220px;
     left: 150px;
     }
-.s1 {
-    position: relative;
+.sec1 {
+    display: flex;
+    min-height: 850px;
+}
+.left1 {
     padding: 40px;
-    background: #f9cdad;
+    width: 500px;
+    background: #fcb3ae;
 }   
 
-.s2 {
-    position: absolute;
-    right: 0;
-    top:  0;   
-    background: #e5b5b5;
+.right1 {
     padding: 40px;
-    
+    width: 700px;
+    background: #e5b5b5;
+       
 }
 .edu {
-    margin: 50px 950px 50px 0;
+    margin: 50px 50px 50px 0;
 }
 .sk {
-    margin: 50px 950px 50px 0;
+    margin: 50px 60px 50px 0;
 }
 .code1{
     margin: 50px 0;
 }
 .code {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.5;
 }
 footer {
-    position: absolute;
-    width: 100%;
+    display: flex;
+    min-height: 150px;
     background: #e9d3d5;
+    
+}
+.fleft {
+ padding: 20px;
+ font-size: 24px;
+ width: 900px;
+}
+.fright {
+    padding: 30px;
+    width: 300px;
 }
