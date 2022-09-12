@@ -20,3 +20,26 @@ Skills:
 * Java Basics
 * Python Basics
 * JavaScript Basics
+
+
+An example of the Java code:
+```
+/**
+ * Прямоугольный треугольник
+ */
+public class Toma {
+
+    public static void main (String[] args) {
+       
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < i + 1; j++) {
+                System.out.print("X ");
+            }
+            System.out.println();
+        }
+    }
+}
+```
+
+English: A2
+Polish: A2
