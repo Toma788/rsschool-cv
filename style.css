@@ -1,0 +1,72 @@
+body {
+    font: 20px Times New Roman, serif;
+    line-height: 40px;
+
+}
+.wrapper {
+    margin: 0px auto;
+    max-width: 1200px;
+}
+
+header{
+    height: 400px;
+    background: #a5d4dc;
+    border-bottom: 1px solid #d7e2e9;
+    display: flex;
+}
+h1 {
+    font-size: 50px;
+    color: #415a80;
+    text-align: center;
+}
+h2 {
+    color: #415a80;
+    text-align: center;
+}
+h3 {
+    color: #d7e2e9;
+}
+.photo {
+    margin: 0px;
+    padding-top: 0px;
+    left: 0px;
+    width: 550px;
+}
+.art1 {
+    margin: 80px 0px 0px 100px;
+    text-align: center;
+    bottom: 40px;
+    left: 40px;
+    }
+.sec1 {
+    display: flex;
+    min-height: 850px;
+}
+.left1 {
+    padding: 30px 5px 30px 35px;
+    width: 364px;
+    background: #415a80;
+}   
+
+.right1 {
+    padding: 40px;
+    width: 726px;
+    background: #f2f4f8;
+       
+}
+.edu {
+    margin: 50px 50px 50px 0;
+}
+.sk {
+    margin: 50px 60px 50px 0;
+}
+.code1{
+    margin: 50px 0;
+}
+.code {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.h3-right {
+    color: #415a80
+}
